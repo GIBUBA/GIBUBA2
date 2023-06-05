@@ -4,4 +4,4 @@ Atuando no Núcleo Regional de Educação de Ibaiti na área das Plataformas Dig
 ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [Alura](https://www.alura.com.br)
 [Gibuba](https://www.instagram.com/gibuba100/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gibuba100/)
